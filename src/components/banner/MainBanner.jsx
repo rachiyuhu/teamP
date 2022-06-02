@@ -1,5 +1,4 @@
 import react from 'react'
-import main001 from '../images/main001.jpg';
 
 const MainBanner = () => {
 

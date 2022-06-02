@@ -13,44 +13,24 @@ function App() {
               <li><a>event</a></li>
               <li><a>리뷰</a></li>
               <li><a>거래</a></li>
-              
-            <li><a class="mainLogo">로고</a></li>
+
+              {/* 클릭했을 때 홈으로 이동 */}
+              <li><a class="mainLogo">로고</a></li>
           
-          {/* 팝업 */}
-          <li>마이페이지</li>
+               {/* 팝업 */}
+              <li>마이페이지</li>
           </ul>
         </nav>
       </header>
       <body>
-        <MyReview>나중에 지우기</MyReview>
+        <MyReview>카테고리배너확인</MyReview>
         
-        {/*메인 배너(슬라이드 유무 2개)*/}
-      <div>
-        <img />
-      </div>
-
-      
+       
 
 
-      {/*지금 인기 게시글*/}
-      <div>
-
-      </div>
-
-      {/*내가 좋아요 누른 글*/}
-      <div>
-        
-      </div>
-
-      {/*신규 판매글*/}
-      <div>
-        
-      </div>
-      
-
-
+      <footer>푸터</footer>
       </body>
-      <footer>아악</footer>
+      
 
 
 
